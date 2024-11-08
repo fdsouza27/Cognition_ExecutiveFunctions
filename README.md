@@ -15,7 +15,6 @@ A total of 32 college participants were involved in this study, contributing dat
 The metrics are compared with their responses to simple and complex visual stimuli to assess their overall executive functioning skills. The results from spatial cognitive tests, including the Block Design Test, are used to determine if there is a correlation between higher executive functioning and enhanced spatial cognition.
 Machine learning (ML) techniques are applied to predict scores related to executive functioning, enabling the identification of patterns and relationships between spatio-cognitive abilities and task performance.
 
-## Objective
-The objective is to understand whether higher spatio-cognitive abilities correlate with better performance in terms of executive functioning. This insight can support applications in cognitive training and further research on young adult populations.
+
 
 
